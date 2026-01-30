@@ -68,8 +68,20 @@ flutter run
 
 ## 📸 Demo & Preview
 
-* **Video Demo:** [View on LinkedIn](YOUR_LINKEDIN_VIDEO_URL)
+* **Video Demo:** [View on LinkedIn](https://www.linkedin.com/in/sachinmaurya2002/)
 * **Screenshots:**
+
+
+
+
+
+![img0](https://github.com/user-attachments/assets/c4a53fe4-4ccc-4f98-b4df-ae27d590715a)
+
+
+![img1](https://github.com/user-attachments/assets/ca45bdee-0bba-4e74-8db2-353465844d0e)
+![img2](https://github.com/user-attachments/assets/d0735e91-f04e-4cc9-9767-d2adb4f9298a)
+![img3](https://github.com/user-attachments/assets/25e8fac6-ebea-4092-8c55-9520430313a4)
+![img4](https://github.com/user-attachments/assets/15110c70-bb08-4fb6-aeb5-012e76e8efeb)
 
 
 ## 🎯 Project Goals
