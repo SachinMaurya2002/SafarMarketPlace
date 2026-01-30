@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "496883902884",
+    "project_id": "safarmarketplace-3ae69",
+    "storage_bucket": "safarmarketplace-3ae69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496883902884:android:b867b37baff0705ba13931",
+        "android_client_info": {
+          "package_name": "com.example.safar_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496883902884-9tb9ctg9qd2d91rmotkj6jeo15e5t2l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safar_store",
+            "certificate_hash": "157b6a40cc756a1fe0f9654a50d5aed71c9d62a4"
+          }
+        },
+        {
+          "client_id": "496883902884-fvpggp2u22iofh0ogre3mikf55imqrhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-eY4soNrJoLVIZyIqKn9TUL8jar_Q-k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496883902884-fvpggp2u22iofh0ogre3mikf55imqrhi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496883902884-81t8ljupskgfpchhsjhkfhjkk3avr03i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.safarStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
