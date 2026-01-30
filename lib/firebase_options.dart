@@ -40,51 +40,49 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD9dVUoFhqeqbAzsQFT2GtCryipgltqvWg',
-    appId: '1:496883902884:web:708ead15d1a74753a13931',
-    messagingSenderId: '496883902884',
+static const FirebaseOptions web = FirebaseOptions(
+    apiKey: 'YOUR_WEB_API_KEY',
+    appId: 'YOUR_WEB_APP_ID',
+    messagingSenderId: 'YOUR_SENDER_ID',
     projectId: 'safarmarketplace-3ae69',
     authDomain: 'safarmarketplace-3ae69.firebaseapp.com',
     storageBucket: 'safarmarketplace-3ae69.firebasestorage.app',
-    measurementId: 'G-HEQC2STEVG',
+    measurementId: 'YOUR_MEASUREMENT_ID',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA-eY4soNrJoLVIZyIqKn9TUL8jar_Q-k4',
-    appId: '1:496883902884:android:b867b37baff0705ba13931',
-    messagingSenderId: '496883902884',
+    apiKey: 'YOUR_ANDROID_API_KEY',
+    appId: 'YOUR_ANDROID_APP_ID',
+    messagingSenderId: 'YOUR_SENDER_ID',
     projectId: 'safarmarketplace-3ae69',
     storageBucket: 'safarmarketplace-3ae69.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCQDtLbfhkHd89ThqpyQeUrra07QOAdOl8',
-    appId: '1:496883902884:ios:57931cfbc28a5816a13931',
-    messagingSenderId: '496883902884',
+    apiKey: 'YOUR_IOS_API_KEY',
+    appId: 'YOUR_IOS_APP_ID',
+    messagingSenderId: 'YOUR_SENDER_ID',
     projectId: 'safarmarketplace-3ae69',
     storageBucket: 'safarmarketplace-3ae69.firebasestorage.app',
-    androidClientId: '496883902884-9tb9ctg9qd2d91rmotkj6jeo15e5t2l0.apps.googleusercontent.com',
-    iosClientId: '496883902884-81t8ljupskgfpchhsjhkfhjkk3avr03i.apps.googleusercontent.com',
+    androidClientId: 'YOUR_ANDROID_CLIENT_ID',
+    iosClientId: 'YOUR_IOS_CLIENT_ID',
     iosBundleId: 'com.example.safarStore',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCQDtLbfhkHd89ThqpyQeUrra07QOAdOl8',
-    appId: '1:496883902884:ios:57931cfbc28a5816a13931',
-    messagingSenderId: '496883902884',
+    apiKey: 'YOUR_MACOS_API_KEY',
+    appId: 'YOUR_MACOS_APP_ID',
+    messagingSenderId: 'YOUR_SENDER_ID',
     projectId: 'safarmarketplace-3ae69',
     storageBucket: 'safarmarketplace-3ae69.firebasestorage.app',
     iosBundleId: 'com.example.safarStore',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyD9dVUoFhqeqbAzsQFT2GtCryipgltqvWg',
-    appId: '1:496883902884:web:a859ef643927fa73a13931',
-    messagingSenderId: '496883902884',
+    apiKey: 'YOUR_WINDOWS_API_KEY',
+    appId: 'YOUR_WINDOWS_APP_ID',
+    messagingSenderId: 'YOUR_SENDER_ID',
     projectId: 'safarmarketplace-3ae69',
     authDomain: 'safarmarketplace-3ae69.firebaseapp.com',
-    storageBucket: 'safarmarketplace-3ae69.firebasestorage.app',
-    measurementId: 'G-MJLF1W7EPM',
   );
 }
